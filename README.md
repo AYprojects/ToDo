@@ -1,7 +1,11 @@
 # ToDo
-A simple to-do app made using html, css and javascript.
+
+## A simple to-do app made using html, css and javascript.
 
 Inspired by Max S
 
-LICENSE
+## LICENSE
+
 MIT © Aakanksh Yalamarthy
+
+Enjoy!
